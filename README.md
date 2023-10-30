@@ -6,7 +6,7 @@ I'm learning networks now. I want to get CCNA degree from Cisco.
 
 I am currently solving problems in letcode to improve my algorithmic skills. Also follow me on letcode.
 
-If you have any projects or suggestions, please contact me! aslonnarzulloyev920@gmail.com
+If you have any projects or suggestions contact me!
 <!--
 **Narzulloyev/Narzulloyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
