@@ -10,5 +10,6 @@ I'm currently studying Cybersecurity and working as a System Administrator. My f
 I'm open to new projects, ideas, or suggestions. Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
 
 📧 **Contact Me:**
-- [Email](https://t.me/AslonNarzulloyev)
+- [Telegram](https://t.me/AslonNarzulloyev)
 - [LinkedIn](https://www.linkedin.com/in/aslon-narzulloyev-578228238/)
+- [YouTube](https://www.youtube.com/@aslonnarzulloyev)
