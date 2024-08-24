@@ -1,23 +1,14 @@
-Hi there 👋 
+# Hi there 👋
 
-I am currently studying cyber security.
+I'm currently studying Cybersecurity and working as a System Administrator. My focus is on securing systems and networks, and I'm always looking to learn and grow in this field.
 
-I'm learning networks now. I want to get CCNA degree from Cisco.
+## What I Do
+- **System Administration:** Managing and maintaining IT infrastructure.
+- **Cybersecurity:** Learning and implementing security measures to protect data and systems.
 
-I am currently solving problems in letcode to improve my algorithmic skills. Also follow me on letcode.
+## Let's Collaborate
+I'm open to new projects, ideas, or suggestions. Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
 
-If you have any projects or suggestions contact me!
-<!--
-**Narzulloyev/Narzulloyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Contact Me:**
+- [Email](https://t.me/AslonNarzulloyev)
+- [LinkedIn](https://www.linkedin.com/in/aslon-narzulloyev-578228238/)
