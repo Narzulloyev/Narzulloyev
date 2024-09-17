@@ -1,15 +1,38 @@
 # Hi there 👋
 
-I'm currently studying Cybersecurity and working as a System Administrator. My focus is on securing systems and networks, and I'm always looking to learn and grow in this field.
+I'm a **System Administrator** focused on **Cybersecurity**, dedicated to protecting and securing systems and networks. Constantly evolving and learning new skills to safeguard data and infrastructure.
 
-## What I Do
-- **System Administration:** Managing and maintaining IT infrastructure.
-- **Cybersecurity:** Learning and implementing security measures to protect data and systems.
+---
 
-## Let's Collaborate
-I'm open to new projects, ideas, or suggestions. Feel free to reach out if you'd like to collaborate or discuss anything tech-related!
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Protection%20%26%20Resilience-green?style=flat-square&logo=security&logoColor=white)
+![System Administrator](https://img.shields.io/badge/System%20Admin-Automation%20%26%20Management-blue?style=flat-square&logo=linux&logoColor=white)
 
-📧 **Contact Me:**
-- [Telegram](https://t.me/AslonNarzulloyev)
-- [LinkedIn](https://www.linkedin.com/in/aslon-narzulloyev-578228238/)
-- [YouTube](https://www.youtube.com/@aslonnarzulloyev)
+## 🛠️ **Skills**
+- **System Administration**: Managing and maintaining IT infrastructure, automation, troubleshooting.
+- **Cybersecurity**: Implementing robust security measures, penetration testing, network security, and vulnerability assessments.
+
+---
+
+### 🌐 **Find me around the web:**
+- [![Telegram](https://img.shields.io/badge/Telegram-%40AslonNarzulloyev-blue?style=flat-square&logo=telegram)](https://t.me/AslonNarzulloyev)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aslon%20Narzulloyev-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aslon-narzulloyev-578228238/)
+- [![YouTube](https://img.shields.io/badge/YouTube-Aslon%20Narzulloyev-red?style=flat-square&logo=youtube)](https://www.youtube.com/@aslonnarzulloyev)
+
+---
+
+## 🚀 **Let's Collaborate**
+I'm always looking for new projects, collaborations, and ideas related to cybersecurity, system administration, or any tech-related discussions!
+
+📧 **Contact Me**: Feel free to reach out via my social channels above.
+
+---
+
+## 📈 **GitHub Stats**
+![Aslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🔐 **Security is not just a job—it's a responsibility.** 
+
+Always ready to secure, protect, and grow!
+
