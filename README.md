@@ -28,7 +28,7 @@ I'm always looking for new projects, collaborations, and ideas related to cybers
 ---
 
 ## 📈 **GitHub Stats**
-![Aslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Aslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narzulloyev&show_icons=true&theme=radical)
 
 ---
 
