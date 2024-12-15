@@ -43,6 +43,7 @@ I'm always looking for new projects, collaborations, and ideas related to cybers
 ![Aslon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narzulloyev&show_icons=true&theme=radical)
 
 ---
+![snake gif](https://github.com/Narzulloyev/Narzulloyev/blob/output/github-contribution-grid-snake.gif)
 
 ### 🔐 **Security is not just a job—it's a responsibility.**
 
