@@ -22,11 +22,14 @@ I'm a **System Administrator** and **DevOps Engineer** focused on **Cybersecurit
 
 ### 🌐 **Find me around the web:**
 
-- [Telegram: @AslonNarzulloyev](https://t.me/AslonNarzulloyev)
-- [LinkedIn: Aslon Narzulloyev](https://www.linkedin.com/in/aslon-narzulloyev-578228238/)
-- [YouTube: Aslon Narzulloyev](https://www.youtube.com/@aslonnarzulloyev)
-- [GitHub: Narzulloyev](https://github.com/Narzulloyev)
-- [LeetCode: Aslon Narzulloyev](https://leetcode.com/u/aslonnarzulloyev920/)
+<h3 align="center">
+<a href="https://aslonbek.uz">aslonbek.uz</a><br>
+<a href="https://t.me/s/AslonNarzulloyev">Telegram</a><br>
+<a href="https://www.linkedin.com/in/aslon-narzulloyev-578228238/">LinkedIn</a><br>
+<a href="https://github.com/Narzulloyev">GitHub</a><br>
+<a href="https://www.youtube.com/@aslonnarzulloyev">YouTube</a><br>
+<a href="https://leetcode.com/u/aslonnarzulloyev920/">LeetCode</a><br>
+</h3>
 
 ---
 
