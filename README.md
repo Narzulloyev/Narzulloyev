@@ -20,7 +20,7 @@ I'm a **System Administrator** and **DevOps Engineer** focused on **Cybersecurit
 
 ---
 
-### 🌐 **Find me around the web:**
+## 🌐 **Find me around the web:**
 
 <h3 align="center">
 <a href="https://aslonbek.uz">aslonbek.uz</a><br>
